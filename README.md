@@ -18,7 +18,7 @@ Now, Let's download chrome webdriver for selenium. To download <a href="https://
 - copy your drive location from location bar is showling above (Script will ask about your path to run chrome browser).
 <br><br>
 <h3>Run script</h3><br>
-Finally you are ready. Open your terminal and got to this script file location and run these command,<br>
+Finally you are ready. Open your terminal and got to this script file location and run these command.<br>
 - python3 facebook_login.py
 - Enter your email address or phone number which is required to login your account
 - Enter your password
