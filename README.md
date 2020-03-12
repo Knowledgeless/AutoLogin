@@ -23,7 +23,7 @@ Finally you are ready. Open your terminal and got to this script file location a
 - python3 facebook_login.py
 - Enter your email address or phone number which is required to login your account
 - Enter your password
-- Enter the chrom webdriver location path you copied before. (It will be looks like: "/home/your_desktop_name/Downloads/chromedriver". If you keep your driver file in Downloads directory.)<br><br>
+- Enter the chrom webdriver location path you copied before. (It will be looks like: <b>"/home/your_desktop_name/Downloads/chromedriver</b>". If you keep your driver file in Downloads directory.)<br><br>
 <h3>Bingo!!!</h3>
 <br>
 Sorry for the mobile users this time.<br><br>
